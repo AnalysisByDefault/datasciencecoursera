@@ -1,4 +1,6 @@
 ## This is a markdown file
 
-`features <- read.table("features.txt")  
-colnames(x.data) <- features[[2]]`
+Here is a code
+
+    features <- read.table("features.txt")
+    colnames(x.data) <- features[[2]]`
